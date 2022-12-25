@@ -1,5 +1,6 @@
 <h1 align="center">
 -- DPR App --
+This is the overview of the app.
 </h1>
 
 <!-- ## -- Screenshots -- -->
